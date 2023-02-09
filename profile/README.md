@@ -1,4 +1,4 @@
-# wearehiring
+# #wearehiring! 🔥
 
 > We are looking for designer, CSS+UI themer, devs, PMM and QA 🛸
 
