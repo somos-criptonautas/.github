@@ -2,7 +2,7 @@
 
 We are artists and developers building a collaborative crypto trading lifestyle.
 
-We are nobody and we are all at the same time.
+We are nobody and all at the same time.
 
 # #wearehiring! 🔥
 
