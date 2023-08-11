@@ -1,13 +1,7 @@
-# Criptonautas?
+# Criptonautas
 
-We are artists and developers building a collaborative crypto trading lifestyle.
+We are building a collaborative crypto trading lifestyle.
 
-We are nobody and all at the same time.
+> And we are almost ready to moon 🔥🛸
 
-# #wearehiring! 🔥
-
-> Our projects are start to moon. We are looking for designer, CSS+UI themer, devs, PMM and QA 🛸
-
-Ping us on [Discussions](https://github.com/orgs/somos-criptonautas/discussions) or [@matenauta on TW](https://twitter.com/matenauta) if you have worked by your own or into versatile startup teams and projects.
-
-Check our [Projects](https://github.com/orgs/somos-criptonautas/projects), Issues or [Discussions](https://github.com/orgs/somos-criptonautas/discussions) to see where you can contribute to say hello!
+Check our [Projects](https://github.com/orgs/somos-criptonautas/projects) and [Discussions](https://github.com/orgs/somos-criptonautas/discussions) to see where you can contribute and say hello!
