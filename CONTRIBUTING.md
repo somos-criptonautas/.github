@@ -6,13 +6,14 @@ that doesn't ship its own guide. The repo list lives on the
 
 ## Before you open a PR
 
-Most of our repos are forks. If your fix is not specific to our forum or site,
-send it upstream instead — the parent repo is linked next to every fork on the
-org profile. Upstream fixes reach everyone and keep our diff small enough to
-rebase.
+Several repos are forks. If your fix is not specific to our forum or site,
+send it upstream instead — the parent repo is linked in the fork's README and
+on the org profile. Upstream fixes reach everyone and keep our diff small enough
+to rebase. A weekly job in [actions](https://github.com/somos-criptonautas/actions)
+opens an issue when a fork falls behind its upstream.
 
-Naming convention: a `-nautas` suffix means a fork we carry patches on;
-no suffix means the code is ours, or the upstream name was kept as is.
+Forks credit the original authors in `plugin.rb` / `about.json` as
+"Original — Forked by Criptonautas", and their admin name ends in "Nautas".
 
 ## Working on one of ours
 
@@ -30,6 +31,21 @@ no suffix means the code is ours, or the upstream name was kept as is.
   `bin/ember-cli -u`. On a production forum a plugin change needs a rebuild:
   `cd /var/discourse && ./launcher rebuild app`.
 - Do not test on the live forum.
+
+## Conventions
+
+- **README** in English (`README.md`) and Spanish (`README.es.md`), each linking
+  to the other on the first line, followed by "Maintained by Criptonautas. Not
+  affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.)."
+- **Screenshots** live in `docs/screenshots/`. Theme components regenerate them
+  with the Screenshots workflow (Actions → Screenshots → Run workflow).
+- **License.** Our own Discourse code is MIT. Forks keep the upstream license and
+  copyright and add a line for our changes. README text is CC BY-NC-SA 4.0.
+- **Comments** explain why, for the next person reading the code. No history,
+  no tool tags.
+- **AI agents.** Each repo keeps an `AGENTS.md` with how to run its checks and
+  what a PR is reviewed against; `CLAUDE.md` only points to it. Personal notes,
+  session logs and local paths stay out of the repo.
 
 ## Commits
 
