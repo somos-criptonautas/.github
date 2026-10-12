@@ -1,8 +1,12 @@
 # Criptonautas
 
-We are building the first collaborative crypto trading course on the 🌏
+**ENGLISH** | [ESPAÑOL](README.es.md)
+
+Peer-to-peer trading and crypto. An open course, reviewed in community.
 
 Supporting Bitcoin, Nano and Monero.
+
+[criptonautas.co](https://criptonautas.co) · [comunidad.criptonautas.co](https://comunidad.criptonautas.co)
 
 ## Contributions
 
@@ -30,6 +34,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-homepage-views-nautas](https://github.com/somos-criptonautas/discourse-homepage-views-nautas) — choose how the community opens
 - [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — our modifications to the Horizon theme
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — self-hosted generated avatars, no third-party calls
+- [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
 
 ### Discourse — forks we maintain
 
@@ -46,6 +51,11 @@ Everything below is active. Archived experiments are not listed.
 ### Ghost
 
 - [ghost-headline-theme-nautas](https://github.com/somos-criptonautas/ghost-headline-theme-nautas) — Headline theme with Criptonautas styling (fork of [TryGhost/Headline](https://github.com/TryGhost/Headline))
+- [ghost-bunny-cdn-storage](https://github.com/somos-criptonautas/ghost-bunny-cdn-storage) — stores Ghost uploads on Bunny.net Storage (fork of [betschki](https://github.com/betschki/ghost-bunny-cdn-storage))
+
+### Brand
+
+- [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, colour, type, voice, templates and site texts; the source of [criptonautas.co/kit](https://criptonautas.co/kit)
 
 ### Other
 
