@@ -57,6 +57,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 - [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, color, tipografía, voz, plantillas y textos de los sitios; la fuente de [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/somos-criptonautas/criptonautas-featured-ghost-filter) — lleva las imágenes destacadas de Ghost al estilo de la marca: paleta de 5 colores, trama y líneas de tinta
+- [criptonautas-featured-ghost-cover](https://github.com/somos-criptonautas/criptonautas-featured-ghost-cover) — genera una portada 1200×630 de la marca para los posts de Ghost sin imagen destacada
 
 ### Otros
 
