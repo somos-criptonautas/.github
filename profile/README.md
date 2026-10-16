@@ -22,6 +22,7 @@ Everything below is active. Archived experiments are not listed.
 
 - [discourse-wiki-coauthors](https://github.com/somos-criptonautas/discourse-wiki-coauthors) — credits everyone who edited a wiki post, under the post
 - [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails on Horizon's high context topic cards
+- [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — discourse-ai topic gists on Horizon's topic cards
 - [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt
 - [discourse-docs-categories-tags](https://github.com/somos-criptonautas/discourse-docs-categories-tags) — lists topics with a given tag on one category page
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — branded homepage blocks with badge-based tier progress
