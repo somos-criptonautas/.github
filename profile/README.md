@@ -56,6 +56,7 @@ Everything below is active. Archived experiments are not listed.
 ### Brand
 
 - [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, colour, type, voice, templates and site texts; the source of [criptonautas.co/kit](https://criptonautas.co/kit)
+- [criptonautas-featured-ghost-filter](https://github.com/somos-criptonautas/criptonautas-featured-ghost-filter) — turns Ghost featured images into the brand look: 5-color palette, halftone and ink lines
 
 ### Other
 
