@@ -22,6 +22,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 - [discourse-wiki-coauthors](https://github.com/somos-criptonautas/discourse-wiki-coauthors) — da crédito a todas las personas que editaron un post wiki, bajo el post
 - [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — miniaturas en las tarjetas de temas de alto contexto de Horizon
+- [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — resúmenes de IA de discourse-ai en las tarjetas de temas de Horizon
 - [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto
 - [discourse-docs-categories-tags](https://github.com/somos-criptonautas/discourse-docs-categories-tags) — lista en la página de una categoría los temas con una etiqueta
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — bloques de portada con la marca y el progreso de rango por badges
