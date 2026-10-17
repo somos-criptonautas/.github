@@ -24,7 +24,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails on Horizon's high context topic cards
 - [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — discourse-ai topic gists on Horizon's topic cards
 - [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt
-- [discourse-docs-categories-tags](https://github.com/somos-criptonautas/discourse-docs-categories-tags) — lists topics with a given tag on one category page
+- [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — mixes topics with a tag into one category's own topic list and treats them as docs
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — branded homepage blocks with badge-based tier progress
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — user badge with badge-based custom tier progress
 - [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — keeps a self-hosted Typesense collection in sync with public posts

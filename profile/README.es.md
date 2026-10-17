@@ -24,7 +24,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — miniaturas en las tarjetas de temas de alto contexto de Horizon
 - [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — resúmenes de IA de discourse-ai en las tarjetas de temas de Horizon
 - [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto
-- [discourse-docs-categories-tags](https://github.com/somos-criptonautas/discourse-docs-categories-tags) — lista en la página de una categoría los temas con una etiqueta
+- [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — integra los temas con una etiqueta en la lista propia de una categoría y los trata como documentación
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — bloques de portada con la marca y el progreso de rango por badges
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — badge de usuario con el progreso de rango por badges
 - [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — mantiene sincronizada una colección de Typesense propia con los posts públicos
