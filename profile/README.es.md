@@ -36,6 +36,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — nuestras modificaciones al tema Horizon
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — avatares generados en servidor propio, sin llamadas a terceros
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — desactiva para todos los atajos de teclado de Discourse
+- [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
 
 ### Discourse — forks que mantenemos
 
