@@ -36,12 +36,13 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — nuestras modificaciones al tema Horizon
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — avatares generados en servidor propio, sin llamadas a terceros
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — desactiva para todos los atajos de teclado de Discourse
+- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, la mascota de la comunidad, en el campo de búsqueda
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
 
 ### Discourse — forks que mantenemos
 
 - [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — votaciones secretas con bola blanca/negra y votos de propuestas (fork de [DaniW42](https://github.com/DaniW42/discourse-ballotage))
-- [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — herramientas de moderación, privacidad y un cliente liviano para teléfono (fork de [JtechTools](https://github.com/TripleU613/JtechTools))
+- [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — herramientas de moderación, privacidad y un cliente liviano para teléfono (fork de [JtechTools](https://github.com/JTech-Forums/JtechTools))
 - [discourse-course-progress-nautas](https://github.com/somos-criptonautas/discourse-course-progress-nautas) — progreso de curso estilo LMS y navegación Anterior/Siguiente entre docs (fork de [zsviczian](https://github.com/zsviczian/discourse-course-progress))
 - [discourse-phosphor-duotone-icons](https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons) — íconos Phosphor duotono, con íconos extra y reasignaciones (fork de [discourse](https://github.com/discourse/discourse-phosphor-duotone-icons))
 - [discourse-category-lockdown-nautas](https://github.com/somos-criptonautas/discourse-category-lockdown-nautas) — las categorías bloqueadas redirigen al tema que las describe (fork de [paviliondev](https://github.com/paviliondev/discourse-category-lockdown))
@@ -60,6 +61,8 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, color, tipografía, voz, plantillas y textos de los sitios; la fuente de [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/somos-criptonautas/criptonautas-featured-ghost-filter) — lleva las imágenes destacadas de Ghost al estilo de la marca: paleta de 5 colores, trama y líneas de tinta
 - [criptonautas-featured-ghost-cover](https://github.com/somos-criptonautas/criptonautas-featured-ghost-cover) — genera una portada 1200×630 de la marca para los posts de Ghost sin imagen destacada
+- [criptonautas-pdf](https://github.com/somos-criptonautas/criptonautas-pdf) — documentos de la comunidad en PDF desde Markdown, reproducibles y sin metadatos
+- [criptonautas-slides](https://github.com/somos-criptonautas/criptonautas-slides) — presentaciones de la comunidad en un solo archivo HTML que funciona sin conexión
 
 ### Otros
 

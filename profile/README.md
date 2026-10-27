@@ -36,12 +36,13 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — our modifications to the Horizon theme
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — self-hosted generated avatars, no third-party calls
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
+- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — daily homepage banner for #kuno topics and the Kuno fundraisers we support
 
 ### Discourse — forks we maintain
 
 - [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — secret black/white-ball ballots and proposal votes (fork of [DaniW42](https://github.com/DaniW42/discourse-ballotage))
-- [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — moderator tools, privacy features and a lightweight phone client (fork of [JtechTools](https://github.com/TripleU613/JtechTools))
+- [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — moderator tools, privacy features and a lightweight phone client (fork of [JtechTools](https://github.com/JTech-Forums/JtechTools))
 - [discourse-course-progress-nautas](https://github.com/somos-criptonautas/discourse-course-progress-nautas) — LMS-style course progress, plus Previous/Next doc navigation (fork of [zsviczian](https://github.com/zsviczian/discourse-course-progress))
 - [discourse-phosphor-duotone-icons](https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons) — Phosphor duotone icons, with extra icons and remaps (fork of [discourse](https://github.com/discourse/discourse-phosphor-duotone-icons))
 - [discourse-category-lockdown-nautas](https://github.com/somos-criptonautas/discourse-category-lockdown-nautas) — locked categories redirect to their own description topic (fork of [paviliondev](https://github.com/paviliondev/discourse-category-lockdown))
@@ -60,6 +61,8 @@ Everything below is active. Archived experiments are not listed.
 - [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, colour, type, voice, templates and site texts; the source of [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/somos-criptonautas/criptonautas-featured-ghost-filter) — turns Ghost featured images into the brand look: 5-color palette, halftone and ink lines
 - [criptonautas-featured-ghost-cover](https://github.com/somos-criptonautas/criptonautas-featured-ghost-cover) — draws a 1200×630 brand cover for Ghost posts without a featured image
+- [criptonautas-pdf](https://github.com/somos-criptonautas/criptonautas-pdf) — community documents as PDF from Markdown, reproducible and without metadata
+- [criptonautas-slides](https://github.com/somos-criptonautas/criptonautas-slides) — community slide decks as one offline HTML file
 
 ### Other
 
