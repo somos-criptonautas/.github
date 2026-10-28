@@ -60,7 +60,7 @@ Everything below is active. Archived experiments are not listed.
 
 - [brand-kit](https://github.com/somos-criptonautas/brand-kit) — logo, colour, type, voice, templates and site texts; the source of [criptonautas.co/kit](https://criptonautas.co/kit)
 - [criptonautas-featured-ghost-filter](https://github.com/somos-criptonautas/criptonautas-featured-ghost-filter) — turns Ghost featured images into the brand look: 5-color palette, halftone and ink lines
-- [criptonautas-featured-ghost-cover](https://github.com/somos-criptonautas/criptonautas-featured-ghost-cover) — draws a 1200×630 brand cover for Ghost posts without a featured image
+- [criptonautas-featured-cover](https://github.com/somos-criptonautas/criptonautas-featured-cover) — draws 1200×630 brand covers for Ghost posts without a featured image and for Discourse wiki, course and glossary topics
 - [criptonautas-pdf](https://github.com/somos-criptonautas/criptonautas-pdf) — community documents as PDF from Markdown, reproducible and without metadata
 - [criptonautas-slides](https://github.com/somos-criptonautas/criptonautas-slides) — community slide decks as one offline HTML file
 
