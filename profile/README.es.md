@@ -38,6 +38,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — desactiva para todos los atajos de teclado de Discourse
 - [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, la mascota de la comunidad, en el campo de búsqueda
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
+- [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — paper trading de swing en un artifact: 1.000 USD ficticios sobre velas reales de 4h, un ranking que nadie puede inflar, temporadas de 4 meses
 
 ### Discourse — forks que mantenemos
 

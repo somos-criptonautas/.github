@@ -38,6 +38,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
 - [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — daily homepage banner for #kuno topics and the Kuno fundraisers we support
+- [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — swing trading paper-trading artifact: 1,000 fictional USD on real 4h candles, a ranking nobody can inflate, 4-month seasons
 
 ### Discourse — forks we maintain
 
