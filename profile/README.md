@@ -21,28 +21,28 @@ Everything below is active. Archived experiments are not listed.
 ### Discourse — ours
 
 - [discourse-wiki-coauthors](https://github.com/somos-criptonautas/discourse-wiki-coauthors) — credits everyone who edited a wiki post, under the post
-- [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails on Horizon's high context topic cards
+- [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — topic thumbnails and a last-reply pill on Horizon's high context topic cards
 - [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — discourse-ai topic gists on Horizon's topic cards
-- [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt
+- [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — render embedded blog posts in full instead of an excerpt; long tagged articles fold behind Show more
 - [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — mixes topics with a tag into one category's own topic list and treats them as docs
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — branded homepage blocks with badge-based tier progress
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — user badge with badge-based custom tier progress
 - [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — keeps a self-hosted Typesense collection in sync with public posts
-- [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — PeerTube videos, live streams and playlists in posts
+- [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — PeerTube videos, live streams and playlists in posts, plus a /videos page with uploads and a review queue
 - [discourse-btcpay-subscriptions](https://github.com/somos-criptonautas/discourse-btcpay-subscriptions) — sells group access through BTCPay Server, priced in fiat, paid in crypto
 - [discourse-community-support-nautas](https://github.com/somos-criptonautas/discourse-community-support-nautas) — community support and on-site BTCPay donations
 - [discourse-monero-tips](https://github.com/somos-criptonautas/discourse-monero-tips) — member-to-member Monero tips, wallet to wallet
 - [discourse-homepage-views-nautas](https://github.com/somos-criptonautas/discourse-homepage-views-nautas) — choose how the community opens
-- [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — our modifications to the Horizon theme
+- [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — our layer on Horizon: styling, docs A–Z, gated sidebar, blog comments embed, full-screen topics, chat toggle and monthly karma
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — self-hosted generated avatars, no third-party calls
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
-- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field
+- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field, with frames for the blog
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — daily homepage banner for #kuno topics and the Kuno fundraisers we support
 - [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — swing trading paper-trading artifact: 1,000 fictional USD on real 4h candles, a ranking nobody can inflate, 4-month seasons
 
 ### Discourse — forks we maintain
 
-- [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — secret black/white-ball ballots and proposal votes (fork of [DaniW42](https://github.com/DaniW42/discourse-ballotage))
+- [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — secret black/white-ball ballots and proposal votes, with a pending-ballot sidebar link and Workflows nodes (fork of [DaniW42](https://github.com/DaniW42/discourse-ballotage))
 - [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — moderator tools, privacy features and a lightweight phone client (fork of [JtechTools](https://github.com/JTech-Forums/JtechTools))
 - [discourse-course-progress-nautas](https://github.com/somos-criptonautas/discourse-course-progress-nautas) — LMS-style course progress, plus Previous/Next doc navigation (fork of [zsviczian](https://github.com/zsviczian/discourse-course-progress))
 - [discourse-phosphor-duotone-icons](https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons) — Phosphor duotone icons, with extra icons and remaps (fork of [discourse](https://github.com/discourse/discourse-phosphor-duotone-icons))
@@ -69,6 +69,6 @@ Everything below is active. Archived experiments are not listed.
 
 - [f-trader](https://github.com/somos-criptonautas/f-trader) — trade log and position sizing in one static page; nothing leaves the browser
 - [comunidad-criptonautas-app](https://github.com/somos-criptonautas/comunidad-criptonautas-app) — Android app for the community
-- [nautas-skills](https://github.com/somos-criptonautas/nautas-skills) — community skills and MCP for AI coding agents
+- [nautas-skills](https://github.com/somos-criptonautas/nautas-skills) — community skills (forum voice, glossary, wikis, course, brand, PDF and slides) and MCP for AI agents
 - [n8n-workflows](https://github.com/somos-criptonautas/n8n-workflows) — backup of our n8n workflows
 - [actions](https://github.com/somos-criptonautas/actions) — shared GitHub Actions

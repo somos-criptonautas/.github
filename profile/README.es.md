@@ -21,28 +21,28 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 ### Discourse — propios
 
 - [discourse-wiki-coauthors](https://github.com/somos-criptonautas/discourse-wiki-coauthors) — da crédito a todas las personas que editaron un post wiki, bajo el post
-- [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — miniaturas en las tarjetas de temas de alto contexto de Horizon
+- [discourse-horizon-topic-thumbnails](https://github.com/somos-criptonautas/discourse-horizon-topic-thumbnails) — miniaturas y la última respuesta en las tarjetas de temas de alto contexto de Horizon
 - [discourse-horizon-ai-gists](https://github.com/somos-criptonautas/discourse-horizon-ai-gists) — resúmenes de IA de discourse-ai en las tarjetas de temas de Horizon
-- [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto
+- [discourse-full-embedded-posts-nautas](https://github.com/somos-criptonautas/discourse-full-embedded-posts-nautas) — muestra completos los posts del blog incrustados, no un extracto; los artículos largos etiquetados se pliegan tras "Mostrar más"
 - [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — integra los temas con una etiqueta en la lista propia de una categoría y los trata como documentación
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — bloques de portada con la marca y el progreso de rango por badges
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — badge de usuario con el progreso de rango por badges
 - [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — mantiene sincronizada una colección de Typesense propia con los posts públicos
-- [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — videos, transmisiones en vivo y listas de PeerTube en los posts
+- [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — videos, transmisiones en vivo y listas de PeerTube en los posts, más una página /videos con subidas y cola de revisión
 - [discourse-btcpay-subscriptions](https://github.com/somos-criptonautas/discourse-btcpay-subscriptions) — vende acceso a grupos con BTCPay Server, con precio en fíat y pago en cripto
 - [discourse-community-support-nautas](https://github.com/somos-criptonautas/discourse-community-support-nautas) — apoyo a la comunidad y donaciones con BTCPay en el sitio
 - [discourse-monero-tips](https://github.com/somos-criptonautas/discourse-monero-tips) — propinas en Monero entre miembros, de wallet a wallet
 - [discourse-homepage-views-nautas](https://github.com/somos-criptonautas/discourse-homepage-views-nautas) — elegir cómo se abre la comunidad
-- [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — nuestras modificaciones al tema Horizon
+- [discourse-horizon-mod-nautas](https://github.com/somos-criptonautas/discourse-horizon-mod-nautas) — nuestra capa sobre Horizon: estilos, documentación de la A a la Z, barra lateral por grupos, comentarios del blog, temas a pantalla completa, botón de chat y karma mensual
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — avatares generados en servidor propio, sin llamadas a terceros
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — desactiva para todos los atajos de teclado de Discourse
-- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, la mascota de la comunidad, en el campo de búsqueda
+- [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, la mascota de la comunidad, en el campo de búsqueda, con poses para el blog
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — aviso diario en la portada con temas #kuno y las recaudaciones de Kuno que apoyamos
 - [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — paper trading de swing en un artifact: 1.000 USD ficticios sobre velas reales de 4h, un ranking que nadie puede inflar, temporadas de 4 meses
 
 ### Discourse — forks que mantenemos
 
-- [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — votaciones secretas con bola blanca/negra y votos de propuestas (fork de [DaniW42](https://github.com/DaniW42/discourse-ballotage))
+- [discourse-ballotage-nautas](https://github.com/somos-criptonautas/discourse-ballotage-nautas) — votaciones secretas con bola blanca/negra y votos de propuestas, con enlace en la barra lateral a las pendientes y nodos para Workflows (fork de [DaniW42](https://github.com/DaniW42/discourse-ballotage))
 - [discourse-power-tools-nautas](https://github.com/somos-criptonautas/discourse-power-tools-nautas) — herramientas de moderación, privacidad y un cliente liviano para teléfono (fork de [JtechTools](https://github.com/JTech-Forums/JtechTools))
 - [discourse-course-progress-nautas](https://github.com/somos-criptonautas/discourse-course-progress-nautas) — progreso de curso estilo LMS y navegación Anterior/Siguiente entre docs (fork de [zsviczian](https://github.com/zsviczian/discourse-course-progress))
 - [discourse-phosphor-duotone-icons](https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons) — íconos Phosphor duotono, con íconos extra y reasignaciones (fork de [discourse](https://github.com/discourse/discourse-phosphor-duotone-icons))
@@ -69,6 +69,6 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 - [f-trader](https://github.com/somos-criptonautas/f-trader) — registro de trades y tamaño de posición en una página estática; nada sale del navegador
 - [comunidad-criptonautas-app](https://github.com/somos-criptonautas/comunidad-criptonautas-app) — app de Android de la comunidad
-- [nautas-skills](https://github.com/somos-criptonautas/nautas-skills) — skills y MCP de la comunidad para agentes de IA de programación
+- [nautas-skills](https://github.com/somos-criptonautas/nautas-skills) — skills de la comunidad (voz del foro, glosario, wikis, curso, marca, PDF y presentaciones) y MCP para agentes de IA
 - [n8n-workflows](https://github.com/somos-criptonautas/n8n-workflows) — respaldo de nuestros workflows de n8n
 - [actions](https://github.com/somos-criptonautas/actions) — GitHub Actions compartidas
