@@ -27,7 +27,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 - [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — integra los temas con una etiqueta en la lista propia de una categoría y los trata como documentación
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — bloques de portada con la marca y el progreso de rango por badges
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — badge de usuario con el progreso de rango por badges
-- [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — mantiene sincronizada una colección de Typesense propia con los posts públicos
+- [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — mantiene sincronizada una colección de Typesense propia con los posts públicos y sus traducciones
 - [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — videos, transmisiones en vivo y listas de PeerTube en los posts, más una página /videos con subidas y cola de revisión
 - [discourse-btcpay-subscriptions](https://github.com/somos-criptonautas/discourse-btcpay-subscriptions) — vende acceso a grupos con BTCPay Server, con precio en fíat y pago en cripto
 - [discourse-community-support-nautas](https://github.com/somos-criptonautas/discourse-community-support-nautas) — apoyo a la comunidad y donaciones con BTCPay en el sitio
@@ -56,7 +56,7 @@ Todo lo que sigue está activo. Los experimentos archivados no se listan.
 
 - [ghost-headline-theme-nautas](https://github.com/somos-criptonautas/ghost-headline-theme-nautas) — tema Headline con el estilo de Criptonautas (fork de [TryGhost/Headline](https://github.com/TryGhost/Headline))
 - [ghost-bunny-cdn-storage](https://github.com/somos-criptonautas/ghost-bunny-cdn-storage) — guarda los archivos subidos a Ghost en Bunny.net Storage (fork de [betschki](https://github.com/betschki/ghost-bunny-cdn-storage))
-- [criptonautas-ghost-translate](https://github.com/somos-criptonautas/criptonautas-ghost-translate) — mantiene en.criptonautas.co como gemelo en inglés de criptonautas.co, bloque a bloque, con n8n y DeepL.
+- [criptonautas-ghost-translate](https://github.com/somos-criptonautas/criptonautas-ghost-translate) — mantiene en.criptonautas.co como gemelo en inglés de criptonautas.co, bloque a bloque, con n8n y DeepL
 
 ### Marca
 

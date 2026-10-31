@@ -27,7 +27,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-doc-categories-tags](https://github.com/somos-criptonautas/discourse-doc-categories-tags) — mixes topics with a tag into one category's own topic list and treats them as docs
 - [discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas) — branded homepage blocks with badge-based tier progress
 - [discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas) — user badge with badge-based custom tier progress
-- [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — keeps a self-hosted Typesense collection in sync with public posts
+- [discourse-typesense-index](https://github.com/somos-criptonautas/discourse-typesense-index) — keeps a self-hosted Typesense collection in sync with public posts and their translations
 - [discourse-peertube-embed](https://github.com/somos-criptonautas/discourse-peertube-embed) — PeerTube videos, live streams and playlists in posts, plus a /videos page with uploads and a review queue
 - [discourse-btcpay-subscriptions](https://github.com/somos-criptonautas/discourse-btcpay-subscriptions) — sells group access through BTCPay Server, priced in fiat, paid in crypto
 - [discourse-community-support-nautas](https://github.com/somos-criptonautas/discourse-community-support-nautas) — community support and on-site BTCPay donations
@@ -56,7 +56,7 @@ Everything below is active. Archived experiments are not listed.
 
 - [ghost-headline-theme-nautas](https://github.com/somos-criptonautas/ghost-headline-theme-nautas) — Headline theme with Criptonautas styling (fork of [TryGhost/Headline](https://github.com/TryGhost/Headline))
 - [ghost-bunny-cdn-storage](https://github.com/somos-criptonautas/ghost-bunny-cdn-storage) — stores Ghost uploads on Bunny.net Storage (fork of [betschki](https://github.com/betschki/ghost-bunny-cdn-storage))
-- [criptonautas-ghost-translate](https://github.com/somos-criptonautas/criptonautas-ghost-translate) — keeps en.criptonautas.co as an English twin of criptonautas.co, block by block, through n8n and DeepL.
+- [criptonautas-ghost-translate](https://github.com/somos-criptonautas/criptonautas-ghost-translate) — keeps en.criptonautas.co as an English twin of criptonautas.co, block by block, through n8n and DeepL
 
 ### Brand
 
