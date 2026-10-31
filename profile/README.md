@@ -37,6 +37,7 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-nautas-avatars](https://github.com/somos-criptonautas/discourse-nautas-avatars) — self-hosted generated avatars, no third-party calls
 - [discourse-disable-keyboard-shortcuts](https://github.com/somos-criptonautas/discourse-disable-keyboard-shortcuts) — turns off Discourse's keyboard shortcuts for everyone
 - [discourse-nautas-mascot](https://github.com/somos-criptonautas/discourse-nautas-mascot) — anonist, the community mascot, in the search field, with frames for the blog
+- [discourse-closed-sidebar-nautas](https://github.com/somos-criptonautas/discourse-closed-sidebar-nautas) — hide the sidebar by default
 - [discourse-kuno-banner](https://github.com/somos-criptonautas/discourse-kuno-banner) — daily homepage banner for #kuno topics and the Kuno fundraisers we support
 - [discourse-nautas-paper-trading](https://github.com/somos-criptonautas/discourse-nautas-paper-trading) — swing trading paper-trading artifact: 1,000 fictional USD on real 4h candles, a ranking nobody can inflate, 4-month seasons
 
@@ -47,7 +48,6 @@ Everything below is active. Archived experiments are not listed.
 - [discourse-course-progress-nautas](https://github.com/somos-criptonautas/discourse-course-progress-nautas) — LMS-style course progress, plus Previous/Next doc navigation (fork of [zsviczian](https://github.com/zsviczian/discourse-course-progress))
 - [discourse-phosphor-duotone-icons](https://github.com/somos-criptonautas/discourse-phosphor-duotone-icons) — Phosphor duotone icons, with extra icons and remaps (fork of [discourse](https://github.com/discourse/discourse-phosphor-duotone-icons))
 - [discourse-category-lockdown-nautas](https://github.com/somos-criptonautas/discourse-category-lockdown-nautas) — locked categories redirect to their own description topic (fork of [paviliondev](https://github.com/paviliondev/discourse-category-lockdown))
-- [discourse-closed-sidebar-nautas](https://github.com/somos-criptonautas/discourse-closed-sidebar-nautas) — hide the sidebar by default (fork of [VaperinaDEV](https://github.com/VaperinaDEV/closed-sidebar-by-default))
 - [discourse-animated-avatars-nautas](https://github.com/somos-criptonautas/discourse-animated-avatars-nautas) — GIF avatars, separate for profile and user card (fork of [discourse](https://github.com/discourse/discourse-animated-avatars))
 - [discourse-search-nautas](https://github.com/somos-criptonautas/discourse-search-nautas) — suggests our SearXNG instance when a search returns nothing (fork of [notriddle](https://github.com/notriddle/discourse-duckduckgo-search))
 - [discourse-theme-skills](https://github.com/somos-criptonautas/discourse-theme-skills) — Claude Code skills for Discourse theme development (fork of [discourse](https://github.com/discourse/discourse-theme-skills))

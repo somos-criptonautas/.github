@@ -34,16 +34,23 @@ Forks credit the original authors in `plugin.rb` / `about.json` as
 
 ## Conventions
 
-- **README** in English (`README.md`) and Spanish (`README.es.md`), each linking
-  to the other on the first line, followed by "Maintained by Criptonautas. Not
+- **README** in English (`README.md`) and Spanish (`README.es.md`): the title, a
+  line linking to the other language, then "Maintained by Criptonautas. Not
   affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.)."
+  Ghost repos name the Ghost Foundation instead.
 - **Screenshots** live in `docs/screenshots/`. Theme components regenerate them
   with the Screenshots workflow (Actions → Screenshots → Run workflow).
-- **License.** Our own Discourse code is MIT. Forks keep the upstream license and
-  copyright and add a line for our changes. README text is CC BY-NC-SA 4.0.
+- **License.** Each repo states its own in its README and LICENSE. Our Discourse
+  and Ghost code is MIT. Forks keep the upstream license and copyright and state
+  our changes. Other repos have their own: f-trader is AGPL-3.0, actions,
+  n8n-workflows and this repo are GPL-3.0, the Android app is Apache-2.0,
+  nautas-skills is CC BY-SA 4.0, and brand-kit explains its parts in its LICENSE.
+- **README text** we write is CC BY-NC-SA 4.0. Text inherited by a fork keeps its
+  license.
+- **Your contribution** is licensed under the license of the repo you send it to.
 - **Comments** explain why, for the next person reading the code. No history,
   no tool tags.
-- **AI agents.** Each repo keeps an `AGENTS.md` with how to run its checks and
+- **AI agents.** Repos with an `AGENTS.md` say there how to run their checks and
   what a PR is reviewed against; `CLAUDE.md` only points to it. Personal notes,
   session logs and local paths stay out of the repo.
 
@@ -59,6 +66,10 @@ DOCS: trim the fork README to what the fork adds
 ```
 
 Short subject, no body when the subject already says it.
+
+## Security
+
+Report vulnerabilities privately, as explained in [SECURITY.md](SECURITY.md).
 
 ## Questions
 
