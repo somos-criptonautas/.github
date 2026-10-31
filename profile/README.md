@@ -56,6 +56,7 @@ Everything below is active. Archived experiments are not listed.
 
 - [ghost-headline-theme-nautas](https://github.com/somos-criptonautas/ghost-headline-theme-nautas) — Headline theme with Criptonautas styling (fork of [TryGhost/Headline](https://github.com/TryGhost/Headline))
 - [ghost-bunny-cdn-storage](https://github.com/somos-criptonautas/ghost-bunny-cdn-storage) — stores Ghost uploads on Bunny.net Storage (fork of [betschki](https://github.com/betschki/ghost-bunny-cdn-storage))
+- [criptonautas-ghost-translate](https://github.com/somos-criptonautas/criptonautas-ghost-translate) — keeps en.criptonautas.co as an English twin of criptonautas.co, block by block, through n8n and DeepL.
 
 ### Brand
 
